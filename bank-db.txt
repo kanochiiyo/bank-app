@@ -1,0 +1,1 @@
+{"id": "9f2d92ba-3b04-4deb-aab5-bfdb1a763767", "acc_no": "5540024190", "full_name": "Dini Andaresta", "pin": "1234", "balance": 0}
